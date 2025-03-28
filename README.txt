@@ -1,3 +1,5 @@
+Blockchain Test Project. Creating, deploy Contracts to add Tokens and NFTs to the blockchain. Deployment fully functional. (C) Cimpoeru Raul 
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
